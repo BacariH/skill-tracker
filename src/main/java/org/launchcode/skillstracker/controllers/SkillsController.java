@@ -53,7 +53,7 @@ public class SkillsController {
                                         "</select>" +
                                     "</td>" +
                                     "<td>" +
-                                        "<select name='skillTwo'>" +
+                                        "<select name='skillThree'>" +
                                         "<option value='java'>Java</option>" +
                                         "<option value='ruby'>Ruby</option>" +
                                         "<option value='python'>Python</option>" +
